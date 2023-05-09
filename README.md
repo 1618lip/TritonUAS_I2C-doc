@@ -8,6 +8,7 @@
 * [Arduino Slave Library](https://discuss.ardupilot.org/t/unsupported-sensors-try-arduino-lua/86814)
 * [Discussion Thread about i2c between arduino and pixhawk](https://discuss.px4.io/t/i2c-communication-between-pixhawk-and-arduino/9595)
 * [YT Vid - Ultrasonic to Pixhawk from Arduino](https://www.youtube.com/watch?v=kK32yuHZyGc)
+* [YT Vid - ArduPilot Lua Scripting](https://www.youtube.com/watch?v=EGWrmJAVWkY)
 
 
 ### Codes *inspired* from the Internet
