@@ -13,4 +13,3 @@
 
 ### Codes *inspired* from the Internet
 * [Usage of I2C but for TFMini RangeFinder](https://discuss.ardupilot.org/t/how-to-make-the-tfmini-rangefinder-talk-i2c/24403)
-* 
