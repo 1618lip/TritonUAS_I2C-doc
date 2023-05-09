@@ -7,3 +7,7 @@
 * [Arduino Slave Library](https://discuss.ardupilot.org/t/unsupported-sensors-try-arduino-lua/86814)
 * [Discussion Thread about i2c between arduino and pixhawk](https://discuss.px4.io/t/i2c-communication-between-pixhawk-and-arduino/9595)
 * 
+
+
+### Codes *inspired* from the Internet
+* (Usage of I2C but for TFMini RangeFinder)[Another_Attempt.ino]
